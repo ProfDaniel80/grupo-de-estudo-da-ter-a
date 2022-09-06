@@ -38,3 +38,35 @@ span {color: rgb(55,35,247);
 	margin-left: 55%;
 	border: double 5px black;
 }
+
+.niveis{
+	background-color: white;
+	margin-right: 85%;
+	text-align: 30px;
+}
+
+.simbolo{
+	margin-left: 5px;
+}
+
+li::marker{
+	content:"\0394";
+	color: blue;
+	font-size: 20;
+}
+
+.imagem-3{
+	
+	width: 40%;
+	height: 60%;
+	margin-right: 55%;
+	border: double 5px black;
+	
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	padding-right: 20%;
+	margin-left: 10%;
+}
